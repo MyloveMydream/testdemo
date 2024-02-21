@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0e890a"],{"8a8c":function(t,e,n){"use strict";n.r(e);var c=function(){var t=this;t._self._c;return t._m(0)},i=[function(){var t=this,e=t._self._c;return e("div",{staticStyle:{width:"100%","background-color":"white",height:"100%"}},[t._v("\n  订单\n  "),e("input",{attrs:{type:"text"}})])}],u={name:"order",methods:{},mounted:function(){this.$saveKeepAliveCache()}},a=u,o=n("0c7c"),r=Object(o["a"])(a,c,i,!1,null,null,null);e["default"]=r.exports}}]);
+//# sourceMappingURL=chunk-2d0e890a.7e54b018.js.map
